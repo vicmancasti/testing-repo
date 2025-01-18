@@ -2,3 +2,4 @@ Hello, this is me, vicmancas
 I am studying Git
 I am from Panama
 I have done my masters in Software, web and cloud at Panama University.
+I was born in Panama city. Now I live in the interior of the country.
